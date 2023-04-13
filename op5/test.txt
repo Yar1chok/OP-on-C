@@ -1,0 +1,2 @@
+Model: Kek, StandartSize: AA, Cost: 250, Voltage: 12, Type: Salt, Price: 20.83.
+Model: Aboba, StandartSize: D, Cost: 100, Voltage: 20, Type: Alk, Price: 5.00.
